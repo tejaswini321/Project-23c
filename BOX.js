@@ -3,7 +3,7 @@ class Box{
        var options ={
            isStatic:true
        }
-       this.body = Bodies.rectangle(200,300,200,20,options);
+       this.body = Bodies.rectangle(200,690,200,20,options);
        this.width = 200;
        this.height = 20;
 
